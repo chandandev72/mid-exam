@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+}
+
+a{
+    font-weight: 400;
+}
+p{
+    font-weight: 400;
+}
+
+.active{
+    @apply bg-themeColor text-light;
+}
+
+.dropdown{
+    position: absolute;
+    width: 200px;
+    right: 0;
+    background: rgb(0, 0, 0, .5);
+    padding: 10px;
+    border-radius: 10px;
+}
+.dropdown ul li{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.profileDropDown::after{
+    content: '';
+    width: 20px;
+    height: 20px;
+    background: rgb(234, 221, 32);
+    position: absolute;
+    top: 0px;
+    right: 80px;
+    margin-top: -10px;
+    transform: rotate(45deg);
+    z-index: 99;
+}
+
+.profileDropDown{
+    position: absolute;
+    background: rgb(234, 221, 32);
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    z-index: 999;
+    top: 80px;
+    right: 0;
+    z-index: 999;
+}
+
+.form-bg{
+    background: rgb(0, 0, 0,.7);
+    /* color: rgba(0, 0, 255, 0.508); */
+}
+
+.blob{
+    background-image: url("/images/blob.png");
+    /* background-size: 500px; */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top center;
+}
+.banner{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,322 @@
+[
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707117746/fakeData%20images/Course%20Related/u7hnbnfbwr5oeldqytok.png",
+      "title": "Introduction to Web Development",
+      "short_description": "Learn the basics of web development and get started on your coding journey.",
+      "long_description": "This course provides a comprehensive introduction to web development, covering HTML, CSS, and JavaScript.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.",
+      "author": "John Smith",
+      "created_at": "2024-01-15",
+      "price": 49.99,
+      "rating": 4.4,
+      "course_details": {
+        "level": "Beginner",
+        "lessons": 10,
+        "duration": "4 weeks"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707117747/fakeData%20images/Course%20Related/v8wir18ytia1rze0ehrb.jpg",
+      "title": "Advanced CSS Techniques",
+      "short_description": "Master advanced CSS techniques to create stunning website designs.",
+      "long_description": "In this course, you'll learn advanced CSS concepts, such as flexbox, grid layout, and CSS animations.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.",
+      "author": "Jane Doe",
+      "created_at": "2024-01-21",
+      "price": 59.99,
+      "rating": 4.9,
+      "course_details": {
+        "level": "Intermediate",
+        "lessons": 8,
+        "duration": "3 weeks"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707117746/fakeData%20images/Course%20Related/pymyxxnibbkrwliskooa.png",
+      "title": "JavaScript Fundamentals",
+      "short_description": "Build a solid foundation in JavaScript programming.",
+      "long_description": "This course covers the fundamentals of JavaScript, including variables, functions, conditionals, and loops.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.",
+      "author": "Michael Johnson",
+      "created_at": "2024-01-28",
+      "price": 79.99,
+      "rating": 4.7,
+      "course_details": {
+        "level": "Intermediate",
+        "lessons": 12,
+        "duration": "6 weeks"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707117746/fakeData%20images/Course%20Related/ivhsh1geeort7u97a4ue.jpg",
+      "title": "Responsive Web Design",
+      "short_description": "Learn how to create responsive websites that adapt to different screen sizes.",
+      "long_description": "In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.",
+      "author": "Emily Thompson",
+      "created_at": "2024-02-02",
+      "price": 69.99,
+      "rating": 4.4,
+      "course_details": {
+        "level": "Intermediate",
+        "lessons": 8,
+        "duration": "4 weeks"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707117746/fakeData%20images/Course%20Related/i2kgl898hq0lab2dpuqh.jpg",
+      "title": "Full Stack Web Development",
+      "short_description": "Become a full stack web developer and build dynamic web applications.",
+      "long_description": "This comprehensive course covers both front-end and back-end web development using popular frameworks like React and Node.js.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.",
+      "author": "David Williams",
+      "created_at": "2024-02-04",
+      "price": 99.99,
+      "rating": 4.5,
+      "course_details": {
+        "level": "Advanced",
+        "lessons": 20,
+        "duration": "8 weeks"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118419/fakeData%20images/Course%20Related/rddlaa25qpowqtajlxbj.png",
+      "title": "Introduction to HTML5",
+      "short_description": "Learn the latest features and capabilities of HTML5.",
+      "long_description": "In this course, you'll explore the new elements, APIs, and multimedia capabilities introduced in HTML5.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.In this course, you'll learn techniques for designing and developing responsive web pages using media queries and flexible layouts.",
+      "author": "Sarah Davis",
+      "created_at": "2024-02-05",
+      "price": 39.99,
+      "rating": 4.3,
+      "course_details": {
+        "level": "Beginner",
+        "lessons": 6,
+        "duration": "2 weeks"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118419/fakeData%20images/Course%20Related/cjlvn7skbyjt43atzlvd.png",
+      "title": "CSS Grid Layout",
+      "short_description": "Master the power of CSS grid layout to create complex and responsive web designs.",
+      "long_description": "This course dives deep into CSS grid layout, teaching advanced techniques for creating flexible and dynamic layouts.",
+      "author": "Robert Johnson",
+      "created_at": "2024-02-05",
+      "price": 59.99,
+      "rating": 4.2,
+      "course_details": {
+        "level": "Intermediate",
+        "lessons": 10,
+        "duration": "4 weeks"
+      }
+    },
+{
+    "id": 8,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118419/fakeData%20images/Course%20Related/vwtyj2zhbopdz5rldv1g.png",
+    "title": "JavaScript Frameworks",
+    "short_description": "Explore popular JavaScript frameworks and libraries for building modern web applications.",
+    "long_description": "This course covers frameworks like React, Angular, and Vue.js, and teaches you how to leverage their features to build dynamic and interactive web applications.",
+    "author": "Jennifer Smith",
+    "created_at": "2024-02-05",
+    "price": 89.99,
+    "rating": 4.9,
+    "course_detais": {
+      "level": "Intermediate",
+      "lessons": 12,
+      "duration": "6 weeks"
+    }
+  },
+  {
+    "id": 9,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118419/fakeData%20images/Course%20Related/gpnvwvxeqgqxkzfa9ja4.jpg",
+    "title": "Server-Side Web Development with Node.js",
+    "short_description": "Learn how to build server-side web applications using Node.js and Express.js.",
+    "long_description": "In this course, you'll learn how to use Node.js and Express.js to build scalable and efficient web applications on the server side.",
+    "author": "Mark Thompson",
+    "created_at": "2024-02-05",
+    "price": 79.99,
+    "rating": 4.1,
+    "course_details": {
+      "level": "Intermediate",
+      "lessons": 10,
+      "duration": "5 weeks"
+    }
+  },
+  {
+    "id": 10,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118419/fakeData%20images/Course%20Related/rfoknxfjljrpeexjvqa7.jpg",
+    "title": "Introduction to Database Design",
+    "short_description": "Learn the fundamentals of database design and management for web applications.",
+    "long_description": "This course covers the basics of database design, normalization, SQL querying, and working with popular database management systems like MySQL and PostgreSQL.",
+    "author": "Jessica Davis",
+    "created_at": "2024-02-05",
+    "price": 49.99,
+    "rating": 4.7,
+    "course_details": {
+      "level": "Beginner",
+      "lessons": 8,
+      "duration": "4 weeks"
+    }
+  },
+  {
+    "id": 11,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118873/fakeData%20images/Course%20Related/jybi3fao5he974rezdea.jpg",
+    "title": "Responsive Web Design with Bootstrap",
+    "short_description": "Learn how to use the Bootstrap framework to create responsive and mobile-first web designs.",
+    "long_description": "In this course, you'll learn how to leverage the power of Bootstrap to build responsive websites and user interfaces that adapt to different screen sizes.",
+    "author": "Kevin Johnson",
+    "created_at": "2024-02-05",
+    "price": 59.99,
+    "rating": 4.3,
+    "course_details": {
+      "level": "Intermediate",
+      "lessons": 8,
+      "duration": "3 weeks"
+    }
+  },
+  {
+    "id": 12,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118872/fakeData%20images/Course%20Related/tdjqzirpfdgctufzoltp.png",
+    "title": "Building RESTful APIs with Express.js",
+    "short_description": "Learn how to design and build RESTful APIs using Express.js and MongoDB.",
+    "long_description": "This course teaches you how to create RESTful APIs using Express.js and interact with a MongoDB database to perform CRUD operations.",
+    "author": "Alex Johnson",
+    "created_at": "2024-02-05",
+    "price": 69.99,
+    "rating": 4.1,
+    "course_details": {
+      "level": "Intermediate",
+      "lessons": 10,
+      "duration": "4 weeks"
+    }
+  },
+  {
+    "id": 13,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118873/fakeData%20images/Course%20Related/ttovvo6l396ol7gupe1p.png",
+    "title": "Advanced JavaScript Concepts",
+    "short_description": "Take your JavaScript skills to the next level with advanced concepts and techniques.",
+    "long_description": "In this course, you'll dive deep into advanced JavaScript topics such as closures, prototypes, asynchronous programming, and more.",
+    "author": "Samantha Lee",
+    "created_at": "2024-02-05",
+    "price": 79.99,
+    "rating": 4.3,
+    "course_details": {
+      "level": "Advanced",
+      "lessons": 12,
+      "duration": "6 weeks"
+    }
+  },
+  {
+    "id": 14,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118873/fakeData%20images/Course%20Related/bxqum5d87i25yceeubqw.png",
+    "title": "Introduction to Front-End Frameworks",
+    "short_description": "Learn the basics of popular front-end frameworks like React, Angular, and Vue.js.",
+    "long_description": "This course provides an introduction to front-end frameworks, teaching you how to build modern and interactive user interfaces using React, Angular, and Vue.js.",
+    "author": "Daniel Williams",
+    "created_at": "2024-02-05",
+    "price": 69.99,
+    "rating": 4.5,
+    "course_details": {
+      "level": "Intermediate",
+      "lessons": 10,
+      "duration": "4 weeks"
+    }
+  },
+  {
+    "id": 15,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707118872/fakeData%20images/Course%20Related/lvupiunzwl5ndgopcdny.png",
+    "title": "Introduction to Back-End Development",
+    "short_description": "Learn the fundamentals of back-end development and build server-side applications.",
+    "long_description": "This course introduces you to back-end development concepts and technologies, covering topics like server-side programming, databases, and API development.",
+    "author": "Michelle Thompson",
+    "created_at": "2024-02-05",
+    "price": 59.99,
+    "rating": 4.1,
+    "course_details": {
+      "level": "Beginner",
+      "lessons": 8,
+      "duration": "4 weeks"
+    }
+  },
+  {
+    "id": 16,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707119413/fakeData%20images/Course%20Related/zlcejdqknw5kxypzqada.png",
+    "title": "User Experience (UX) Design",
+    "short_description": "Learn how to design intuitive and user-friendly web experiences.",
+    "long_description": "In this course, you'll learn the principles of user experience (UX) design and how to apply them to create engaging and effective web designs.",
+    "author": "Rachel Davis",
+    "created_at": "2024-02-05",
+    "price": 79.99,
+    "rating": 4.8,
+    "course_details": {
+      "level": "Intermediate",
+      "lessons": 12,
+      "duration": "6 weeks"
+    }
+  },
+  {
+    "id": 17,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707119412/fakeData%20images/Course%20Related/bwrzkpryfthv1abpq3wt.png",
+    "title": "Building Scalable Web Applications",
+    "short_description": "Learn techniques and best practices for building scalable and high-performance web applications.",
+    "long_description": "This course covers architectural patterns, caching strategies, performance optimization, and other techniques for building scalable web applications that can handle high traffic loads.",
+    "author": "Andrew Johnson",
+    "created_at": "2024-02-05",
+    "price": 89.99,
+    "rating": 4.0,
+    "course_details": {
+      "level": "Advanced",
+      "lessons": 10,
+      "duration": "5 weeks"
+    }
+  },
+  {
+    "id": 18,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707119413/fakeData%20images/Course%20Related/uxcwjkzokrn66ic2w2th.jpg",
+    "title": "Introduction to Web Accessibility",
+    "short_description": "Learn how to design and develop web applications that are accessible to all users.",
+    "long_description": "In this course, you'll learn about web accessibility standards and techniques for ensuring that your web applications can be used by people with disabilities.",
+    "author": "Sophia Johnson",
+    "created_at": "2024-02-05",
+    "price": 49.99,
+    "rating": 4.6,
+    "course_details": {
+      "level": "Beginner",
+      "lessons": 6,
+      "duration": "3 weeks"
+    }
+  },
+  {
+    "id": 19,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707119412/fakeData%20images/Course%20Related/sybhtirg6lpgphe3ieyl.webp",
+    "title": "Web Design Principles",
+    "short_description": "Learn the fundamental principles of web design and create visually appealing websites.",
+    "long_description": "This course covers design principles, color theory, typography, layout, and other essential concepts for creating aesthetically pleasing and effective web designs.",
+    "author": "Olivia Smith",
+    "created_at": "2024-02-05",
+    "price": 59.99,
+    "rating": 4.5,
+    "course_details": {
+      "level": "Beginner",
+      "lessons": 8,
+      "duration": "4 weeks"
+    }
+  },
+{
+    "id": 20,
+    "image": "https://res.cloudinary.com/dmiz7yey9/image/upload/v1707119412/fakeData%20images/Course%20Related/mob2mhk2exidtz6fyhma.jpg",
+    "title": "Building E-Commerce Websites",
+    "short_description": "Learn how to build secure and functional e-commerce websites using popular platforms.",
+    "long_description": "In this course, you'll learn how to create e-commerce websites using platforms like WooCommerce, Shopify, or Magento, and integrate payment gateways to enable online transactions.",
+    "author": "Daniel Johnson",
+    "created_at": "2024-02-05",
+    "price": 69.99,
+    "rating": 4.2,
+    "course_details": {
+      "level": "Intermediate",
+      "lessons": 10,
+      "duration": "5 weeks"
+    }
+  }
+]
