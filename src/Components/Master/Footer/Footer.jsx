@@ -24,7 +24,7 @@ const Footer = () => {
                 <ul className="text-light dark:text-themeColor font-medium">
                   <li className="mb-4">
                     <a href="#" className="hover:underline">
-                      Coder value City
+                      AFI
                     </a>
                   </li>
                   <li>
@@ -105,7 +105,7 @@ const Footer = () => {
                 <span className="sr-only">Facebook page</span>
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/login/"
                 className="text-themeColor dark:text-themeColor3 hover:text-gray-900 dark:hover:text-white ms-5"
               >
                 <svg
@@ -139,7 +139,7 @@ const Footer = () => {
                 <span className="sr-only">Twitter page</span>
               </a>
               <a
-                href="#"
+                href="https://twitter.com/i/flow/login"
                 className="text-themeColor dark:text-themeColor3 hover:text-gray-900 dark:hover:text-white ms-5"
               >
                 <svg
@@ -158,7 +158,7 @@ const Footer = () => {
                 <span className="sr-only">GitHub account</span>
               </a>
               <a
-                href="#"
+                href="https://github.com/"
                 className="text-themeColor dark:text-themeColor3 hover:text-gray-900 dark:hover:text-white ms-5"
               >
                 <svg
@@ -185,3 +185,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
